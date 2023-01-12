@@ -8,7 +8,7 @@ Created on Sat Jan  7 16:58:14 2023
 import requests
 import json
 
-link = 'https://APIFLASK.antemoutiranha.repl.co/verify'
+link = 'link' #put the ip or link of your API here, I recommend putting the code in the replit and running the API for testing
 jsona = {
     "password": "AbcdEfgHiklmnqwerj!1234&",
     "rules": [
